@@ -27,7 +27,7 @@ If you find value in these field notes, **Star this repo** to support the work.
 
 ---
 
-## 🛡️ Legal & Ethical Disclaimer
+## Legal & Ethical Disclaimer
 
 All cases documented here are for research and Red Teaming educational purposes only. The goal is to highlight the fragility of the human element in the security chain. Unauthorized imitation of these techniques for malicious purposes is strictly discouraged.
 
