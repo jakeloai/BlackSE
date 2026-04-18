@@ -27,16 +27,6 @@ If you find value in these field notes, **Star this repo** to support the work.
 
 ---
 
-## 📂 Case Directory (Sample Structure)
-
-| Case ID | Scenario | Primary Trigger | Outcome |
-| :--- | :--- | :--- | :--- |
-| **#001** | The "Corporate Auditor" | Authority Play | Physical Access to POS Backend |
-| **#002** | The "Busy Professional" | Empathy Loop | Service Upgrade & Information Leak |
-| **#003** | The "Internal Memo" | Social Validation | Credential Harvesting (Non-Technical) |
-
----
-
 ## 🛡️ Legal & Ethical Disclaimer
 
 All cases documented here are for research and Red Teaming educational purposes only. The goal is to highlight the fragility of the human element in the security chain. Unauthorized imitation of these techniques for malicious purposes is strictly discouraged.
