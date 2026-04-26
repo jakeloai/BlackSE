@@ -1,5 +1,7 @@
 # BlackSE: Human Systems Exploitation
 
+<img width="3440" height="1440" alt="RED TEAM" src="https://github.com/user-attachments/assets/1e462b44-e777-4d8c-993f-b4f79136bb60" />
+
 > **"I don't look for vulnerabilities in code; I look for them in the people who write it."**
 
 This repository is a curated collection of real-world Social Engineering (SE) engagements conducted by **Jake Lo**. 
